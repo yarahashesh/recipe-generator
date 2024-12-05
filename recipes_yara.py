@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1PM6y5lk-UWojzFeJBbmk85AhAdi2FX5m
 """
 
-!nvidia-smi
+
 
 # تثبيت المكتبات المطلوبة في Google Colab
 !pip install transformers
